@@ -1,8 +1,5 @@
-# EXCEL-PROJECTS
-This repository contains my Excel-projects
+# LAMA BIKE SALES ANALYSIS
+This dataset contains the detailed information about LAMA bike sales.
+Purpose of this analysis is to find which product should be produced to which segment in which market
 
-## CLEANING DATA - STEP 1
-I used "Remove Duplicate" command in Excel to remove duplicates
 
-## REVENUE TREND LINE CHART
-<img src ="https://github.com/arzurahimli/LAMA-BIKE-SALES-ANALYSIS/blob/main/Lama%20Bike%20Sales%20Revenue.PNG" width="350" height="auto" >
