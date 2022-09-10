@@ -11,3 +11,5 @@ Purpose of this analysis is to find which product should be produced to which se
 >To analyze reason behind this fluctuation quantity and price was analyzed. Graph below reveals that price of product is fix over the time in opposite to quantity. >Change in the quantity is the main result of revenue fluctuation
 >
 ><img src ="https://github.com/arzurahimli/LAMA-BIKE-SALES-ANALYSIS/blob/main/Review/Images/Quantity%20and%20Price%20Change.png" width="1000" height="auto" >
+
+
